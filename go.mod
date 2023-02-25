@@ -17,5 +17,5 @@ require (
 	github.com/snowflakedb/gosnowflake v1.3.4
 	github.com/stretchr/testify v1.5.1
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
-	golang.org/x/crypto v0.0.0-20200707235045-ab33eee955e0
+	golang.org/x/crypto v0.1.0
 )
